@@ -1,0 +1,12 @@
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\bin\Debug\DB\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\bin\Debug\DB\miDB_log.ldf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\bin\Debug\Administracion_SQL.exe.config
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\bin\Debug\Administracion_SQL.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\bin\Debug\Administracion_SQL.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL\Administracion_SQL\obj\Debug\Administracion_SQL.pdb
